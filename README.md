@@ -14,7 +14,7 @@ Es un Script desarrollado en Python que perimite visualizar la informacion de un
     Latitud 
     Longitud
     IP
-    Asociación}
+    Asociación
     Región
     Nombre de la región 
     Zona horaria              
