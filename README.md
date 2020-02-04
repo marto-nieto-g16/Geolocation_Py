@@ -23,4 +23,4 @@ Es un Script desarrollado en Python que perimite visualizar la informacion de un
 # Uso
 python Geolocation_Py.py --ipaddress Ip
 
-<p align="center"> <img src="https://github.com/marto-nieto-g16/Pokedex-Py/blob/master/index%20pokedex2.png" /> 
+<p align="center"> <img src="https://github.com/marto-nieto-g16/Geolocation_Py/blob/master/Geolocation_Py.png" /> 
